@@ -1,0 +1,127 @@
+description = "Alan个人笔记文档"
+# 网站关键词
+keywords = ["alan", "Hugo", "devops"]
+# 应用图标配置
+[app]
+  # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
+  title = "Alan"
+  # 是否隐藏网站图标资源链接
+  noFavicon = false
+  # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
+  svgFavicon = ""
+  # Safari 图标颜色
+  iconColor = "#5bbad5"
+  # Windows v8-10 磁贴颜色
+  tileColor = "#da532c"
+
+# 搜索配置
+[search]
+  enable = false
+
+# 主页信息设置
+[home]
+  # RSS 文章数目
+  rss = 10
+  # 主页个人信息
+  [home.profile]
+    enable = true
+    # Gravatar 邮箱，用于优先在主页显示的头像
+    gravatarEmail = ""
+    # 主页显示头像的 URL
+    avatarURL = "/source/images/avatar.webp"
+    # 头像的链接指向的 URL
+    avatarLinkURL = ""
+    # 主页显示的网站标题 (支持 HTML 格式)
+    title = ""
+    # 主页显示的网站副标题
+    subtitle = "梦，开始的地方"
+    # 是否为副标题显示打字机动画
+    typeit = true
+    # 是否显示社交账号
+    social = true
+    # 免责声明 (支持 HTML 格式)
+    disclaimer = ""
+
+  # 主页文章列表
+  [home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    # 主页每页显示文章数量
+    paginate = 10
+
+# 主页的社交信息设置
+[social]
+  Angellist = ""
+  Bandcamp = ""
+  Behance = ""
+  Bilibili = ""
+  Bitbucket = ""
+  BuyMeACoffee = ""
+  Codepen = ""
+  Deviantart = ""
+  Devto = ""
+  Douban = ""
+  Dribbble = ""
+  Email = "al6nlee@163.com"
+  Facebook = ""
+  Fivehundredpx = ""
+  Flickr = ""
+  Foursquare = ""
+  FreeCodeCamp = ""
+  Gitea = ""
+  GitHub = "https://github.com/al6nlee"
+  Gitlab = ""
+  Goodreads = ""
+  Googlescholar = ""
+  Hackernews = ""
+  Instagram = ""
+  Jsfiddle = ""
+  Keybase = ""
+  Kickstarter = ""
+  Ko-Fi = ""
+  Lastfm = ""
+  Liberapay = ""
+  Linkedin = ""
+  Linktree = ""
+  Mastodon = ""
+  Matrix = ""
+  Medium = ""
+  Mix = ""
+  Odnoklassniki = ""
+  ORCID = ""
+  Patreon = ""
+  Paypal = ""
+  Pinterest = ""
+  QQ = ""
+  QQGroup = ""
+  Quora = ""
+  Reddit = ""
+  Researchgate = ""
+  RSS = true
+  Skype = ""
+  Slidershare = ""
+  Snapchat = ""
+  Soundcloud = ""
+  Spotify = ""
+  Stackoverflow = ""
+  Steam = ""
+  Strava = ""
+  Telegram = ""
+  Thingiverse = ""
+  Tumblr = ""
+  Twitch = ""
+  Twitter = ""
+  Vine = ""
+  VK = ""
+  Weibo = ""
+  Whatsapp = ""
+  Wordpress = ""
+  Xing = ""
+  XMPP = ""
+  Youtubechannel = ""
+  Youtubecustom = ""
+  Youtubelegacy = ""
+  Zhihu = ""
+  [social.Diaspora]
+    id = "@xxxx"
+    prefix = "https://yyyy/"
