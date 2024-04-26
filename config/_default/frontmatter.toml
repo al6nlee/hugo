@@ -1,4 +1,4 @@
 date = ['CreateDate', ':default']           # 内容的发布日期或创建日期
 expiryDate = []                             # 内容的过期日期。一旦过了这个日期，Hugo 将不再将该内容构建到最终的网站中
-lastmod = [':fileModTime', ':default']      # 指定内容的最后修改日期。这可以帮助搜索引擎了解内容的更新频率
+lastmod = ['ModDate', ':fileModTime', ':default']      # 指定内容的最后修改日期。这可以帮助搜索引擎了解内容的更新频率
 publishDate = [':default']                  # 用于指定内容的发布日期，而不是创建日期，publishDate找不到就去date中找
