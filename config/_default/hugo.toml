@@ -1,0 +1,12 @@
+baseURL = "https://al6nlee.github.io"  # 站点地址
+
+title = "Alan's website"   # 网站标题
+
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+languageName = "简体中文"
+
+theme = "DoIt"
+contentDir = "/Users/alan/Library/Mobile Documents/com~apple~CloudDocs/Obsidian"  # 笔记地址
+uglyUrLs = "true"  # 这个开启后不会自动生成文件名这层目录
+
