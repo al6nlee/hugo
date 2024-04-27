@@ -1,25 +1,25 @@
 [[main]]
-  identifier = "posts"
+  identifier = "index"
   pre = ""
   post = ""
-  name = "所有文章"
+  name = "首页"
   url = "/"
   title = ""
   weight = 1
 [[main]]
-  identifier = "tags"
+  identifier = "Kubernetes"
   pre = ""
   post = ""
-  name = "标签"
-  url = "/"
+  name = "Kubernetes"
+  url = "/categories/kubernetes.html"
   title = ""
   weight = 2
 [[main]]
-  identifier = "categories"
+  identifier = "Docker"
   pre = ""
   post = ""
-  name = "分类"
-  url = "/"
+  name = "Docker"
+  url = "/categories/docker.html"
   title = ""
   weight = 3
 [[main]]
