@@ -11,7 +11,7 @@
   pre = ""
   post = ""
   name = "Kubernetes"
-  url = "/categories/kubernetes.html"
+  url = "/series/kubernetes.html"
   title = ""
   weight = 2
 [[main]]
@@ -19,7 +19,7 @@
   pre = ""
   post = ""
   name = "Docker"
-  url = "/categories/docker.html"
+  url = "/series/docker.html"
   title = ""
   weight = 3
 [[main]]
