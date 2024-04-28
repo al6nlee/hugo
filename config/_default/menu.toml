@@ -35,7 +35,7 @@
   pre = ""
   post = ""
   name = "关于"
-  url = "/关于作者.html"
+  url = "/关于.html"
   title = ""
   weight = 5
 [[main]]
