@@ -7,7 +7,7 @@ languageCode = "zh-CN"
 languageName = "简体中文"
 
 theme = "DoIt"
-contentDir = "/Users/alan/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/NoteHub"  # 笔记地址
+contentDir = "/Users/alan/Library/Mobile Documents/com~apple~CloudDocs/Obsidian"  # 笔记地址
 uglyUrLs = "true"  # 这个开启后不会自动生成文件名这层目录
 
 paginate = 20  # 配置每页显示文章数，用于分类，控制主页面的文章数的参数是parms.home.posts.paginate
