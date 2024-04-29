@@ -43,7 +43,7 @@
   pre = ""
   post = ""
   name = "关于"
-  url = "/关于.html"
+  url = "/source/关于.html"
   title = ""
   weight = 6
 [[main]]
